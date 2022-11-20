@@ -9,6 +9,8 @@
 - Азы машинного обучения на библиотеке Scikit Learn
 - Представление и визуализация данных в Tableau, PowerBI и Yandex.Datalens.
 
+Быстро написать мне можно так: [Telegam](http://t.me/hfekmn) 💌 [E-mail](mailto:kovalev.v.da@gmail.com)
+
 Моё резюме доступно, если нажать 👉🏼[вот сюда](https://github.com/kovalev-vladimir-da/practicum_da/blob/main/kovalev_vladimir_cv.pdf)
 
 А мой диплом доступен, если нажать 👉🏼[вот сюда](https://drive.google.com/file/d/1z_Cj69L5p-VCBnIyqeTbJvD5Nn_bKsZy/view?usp=sharing)
