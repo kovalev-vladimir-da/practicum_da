@@ -1,5 +1,5 @@
 # Яндекс.Практикум "Аналитик данных"
-![jl59cldb58gkiz3ojwik](https://user-images.githubusercontent.com/118074742/202895769-77898d00-d6f0-48d4-bc06-dbb6f921ed0f.png)
+![Frame 1](https://user-images.githubusercontent.com/118074742/202895919-ae339e27-354f-43e6-8b4c-f276c709fc6f.png)
 Данный репозиторий хранит ключевые проекты выполненные мною в рамках прохождения учебного курса по профессии Аналитик Данных от Яндекс.Практикум в котором изучались: 
 - Базово Python (pandas, numpy) и углубленно SQL (PostgreSQL, MySQL) -- анализ данных с их использованием;
 - Визуализация данных при помощи основных библиотек Seaborn, Mathplotlib и Plotly;
